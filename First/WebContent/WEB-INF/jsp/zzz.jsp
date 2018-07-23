@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<p>this is the second jsp file</p>
+<p>this is the third jsp file</p>
 </body>
 </html>
